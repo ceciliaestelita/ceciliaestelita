@@ -19,7 +19,7 @@ Interested in computer architecture, embedded systems, programming and intellige
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Electronic Engineering at UFPE.
+- 🇧🇷 Studying Electronic Engineering at UFPE.
 - 🇫🇷 Studying Automatic Control and Intelligent Systems at ENSE3.
 - 💻 Working with electronics, computer architecture and digital systems.
 - 🔬 Interested in embedded systems, signal processing and intelligent technologies.
