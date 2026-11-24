@@ -36,7 +36,6 @@ Interested in computer architecture, embedded systems, programming and intellige
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=matlab&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge)
 
 </div>
 
